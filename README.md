@@ -1,2 +1,2 @@
 # Curso de API REST en JavaScript
-Curso Práctico de Consumo de API REST con JavaScript
+Un curso que te ensena los fundamentos de consumir datos utilizando JavaScript, con un proyecto final: MoviesApp.
